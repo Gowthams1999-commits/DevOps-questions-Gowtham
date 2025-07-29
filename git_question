@@ -1,0 +1,60 @@
+1.What is the difference between Git and GitHub?
+
+2.What is git init?
+
+3.How do you create a Git branch?
+
+4.Which Git branching strategy are you using?
+
+5.What is the difference between the working area and the staging area in Git?
+
+6.How do you check Git logs?
+
+7.How do you ignore files/folders while committing in Git?
+
+8.How do you reset your previous commit?
+
+9.How do you add a remote repository?
+
+10.How do you verify whether a remote repository has been added or not?
+
+11.What is git clone?
+
+12.What is git fork?
+
+13.How do you merge branches?
+
+14.How do you resolve conflicts while merging?
+
+15.How do you switch from one branch to another?
+
+16.What is git push?
+
+17.What is git pull?
+
+18.What is git cherry-pick?
+
+19.What is branch merge in Git?
+
+20.How do you create a pull request and merge it with the master branch?
+
+21.What are hotfix/bugfix branches?
+
+22.What types of branches are you using?
+
+23.What is git stash? (HCL asked)
+
+24.How do you set the username and commit email ID in Git?
+
+25.What is a webhook in Git?
+
+26.How do you configure a webhook to trigger a CI/CD pipeline?
+
+27.Explain one issue you have faced while using Git.
+
+28.What is the difference between git reset and git revert? (HCL asked)
+
+29.What is the difference between git reset --hard and git reset --soft? (HCL asked)
+
+30.What type of branching strategy are you using in your organization? (HCL asked)
+
