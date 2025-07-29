@@ -7,3 +7,6 @@
 • What kind of deployment strategy are you using? (HCL asked)
 
 • Explain Kubernetes architecture.
+
+* How various components interact with kubernetes when you apply or run kubectl? (Abhishek)
+* What is purpose of service in kubernetes? (Abhishek)
