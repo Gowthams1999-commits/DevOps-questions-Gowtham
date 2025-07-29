@@ -1,0 +1,99 @@
+1. What is Terraform and how does it work?
+
+2. What are the key components of Terraform?
+
+3. What is a Terraform provider?
+
+4. What is the purpose of the .tfstate file?
+
+5. How do you initialize a Terraform project?
+
+6. What is the difference between terraform plan and terraform apply?
+
+7. What does terraform destroy do?
+
+8. How do you define and use variables in Terraform?
+
+9. How do you pass variables to Terraform?
+
+10. What is terraform validate and terraform fmt?
+
+11. What is the difference between local and remote state?
+
+12. How do you manage state in a team?
+
+13. What are Terraform modules?
+
+14. What is terraform taint?
+
+15. What are data sources in Terraform?
+
+16. What are some best practices for writing Terraform code?
+
+17. How do you manage secrets in Terraform?
+
+18. What are Terraform lifecycle rules?
+
+19. How are resource dependencies handled in Terraform?
+
+20. How do you manage versioning in Terraform?
+
+21. How do you handle multi-environment setups in Terraform?
+
+22. How would you roll back a bad Terraform change?
+
+23. What is the difference between environments and workspaces?
+
+24. What is drift in Terraform and how do you detect it?
+
+25. Have you written custom modules or providers in Terraform?
+
+26. How do you ensure idempotency in Terraform?
+
+27. What is the difference between count and for_each in Terraform?
+
+28. How do you resolve circular dependencies in Terraform?
+
+29. How do you use Terraform in a CI/CD pipeline?
+
+30. How do you test Terraform code?
+
+31. What is Terraform?
+
+32. What is the difference between Terraform and Ansible?
+
+33. What is the terraform.tfstate file?
+
+34. What does terraform init do?
+
+35. What is terraform fmt (format)?
+
+36. What does terraform validate do?
+
+37. What is terraform plan?
+
+38. What does terraform apply do?
+
+39. What is terraform.tfvars and how is it used?
+
+40. What are modules in Terraform?
+
+41. Please write a Terraform configuration file to create an EC2 instance.
+
+42. Please write a Terraform configuration file to create an EC2 instance using modules.
+
+43. What is a Terraform remote backend?
+
+44. How do you enable state locking for your terraform.tfstate file?
+
+45. Please write a Terraform configuration to define a remote backend.
+
+46. What is a Terraform workspace?
+
+47. How do you create and manage multiple environments in Terraform?
+
+48. Why is my terraform.tfstate file not being overridden when creating resources for multiple environments?
+
+49. Have you integrated Terraform into a CI/CD pipeline? How?
+
+50. I have created 10 EC2 instances using Terraform. I want to delete only 3 of them. How can I do this? (Asked by one software company)
