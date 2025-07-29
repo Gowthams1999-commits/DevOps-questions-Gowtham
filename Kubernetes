@@ -11,3 +11,4 @@
 * How various components interact with kubernetes when you apply or run kubectl? (Abhishek)
 * What is purpose of service in kubernetes? (Abhishek)
 * What is types of service in kubernetes? (Abhishek)
+* whay hardcode Pod IP communication is bad in kubernetes? (Abhshek)
