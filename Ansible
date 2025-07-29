@@ -1,0 +1,12 @@
+0. How do you resolve SSH Authentication Failure in Ansible?
+
+1. Ansible fails to connect to a host with an SSH error. How would you debug and resolve it?
+
+2. You have a task that changes a config file and a handler to restart the service, but the handler is not being triggered. Why might this happen?
+
+3. Your playbook completes successfully, but the expected changes aren't showing up on the target servers. How would you troubleshoot it?
+
+4. A job in Ansible Tower fails, but the same playbook runs fine using the CLI. What steps would you take to debug the issue?
+
+5. Your playbook takes too long to run. What strategies would you apply to improve its execution time?
+
