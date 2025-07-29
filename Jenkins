@@ -1,0 +1,62 @@
+*CI/CD & Jenkins Interview Questions*
+
+1. Please explain the CI/CD process that you have implemented in your organization.
+
+2. Please explain the CI (Continuous Integration) part.
+
+3. Please explain the CD (Continuous Deployment/Delivery) part.
+
+4. What is ArgoCD? Why are we using ArgoCD for Continuous Deployment?
+
+5. How do you find the Jenkins initialAdminPassword after installation?
+
+6. How do you install the latest or available plugins in Jenkins?
+
+7. Name a few plugins that you commonly use in Jenkins.
+
+8. How do you store secrets or credentials securely in Jenkins?
+
+9. How do you create users and groups in Jenkins?
+
+10. What is the Security section in Jenkins used for?
+
+11. How do you assign permissions to users in Jenkins?
+
+12. How do you implement Role-Based Access Control (RBAC) in Jenkins?
+
+13. How do you trigger a Jenkins job or pipeline automatically?
+
+14. What are the different types of build triggers available in Jenkins?
+
+15. What is Poll SCM build trigger in Jenkins?
+
+16. What is Build Periodically trigger in Jenkins?
+
+17. What is the purpose of "Build after other projects are built" option?
+
+18. How do you fetch the Jenkinsfile from SCM (e.g., GitHub)?
+
+19. Please write an example Jenkinsfile that you have implemented in your organization.
+
+20. How do you take a backup of Jenkins (jobs, configuration, etc.)?
+
+21. What is a Shared Library in Jenkins and why is it used?
+
+22. How do you add slave nodes (agents) to Jenkins?
+
+23. Why do we use Docker agents as Jenkins slaves?
+
+24. How do you set up a highly available and scalable Jenkins infrastructure in AWS?
+
+25. What is a multi-stage and multi-agent Jenkinsfile?
+
+26. What is a parallel build in Jenkins? (HCL asked)
+
+27. How do you configure a parameterized build in Jenkins? (HCL asked)
+
+28. What is the difference between Snippet Generator and Declarative Generator in Jenkins? (HCL asked)
+
+29. What does the schedule expression (H 5 * * *) mean in Jenkins? (HCL asked)
+
+30. You had several failed pipeline jobs. After the developer updated the source code, the pipeline ran successfully. If you re-run one of the old failed jobs, will it pull the latest source code or use the original code from the previous run? (Asked by one software company)
+
