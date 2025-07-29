@@ -1,0 +1,63 @@
+• What is Docker?
+
+• What is the difference between a container and a virtual machine (VM)?
+
+• What is a Docker image?
+
+• What is a Docker container?
+
+• What is the purpose of Dockerfile?
+
+• How do you build and run a Docker container?
+
+• What is the difference between CMD and ENTRYPOINT in a Dockerfile?
+
+• How do you list running containers?
+
+• What’s the difference between docker stop and docker kill?
+
+• What are volumes in Docker?
+
+• How do you persist data in Docker?
+
+• What is Docker Compose?
+
+• What is the difference between a bind mount and a volume?
+
+• How do you scale services in Docker Compose?
+
+• What is the role of the Docker Registry?
+
+• How do you remove all stopped containers and unused images?
+
+• What is the .dockerignore file?
+
+• How do you check container logs?
+
+• How can you connect containers across different networks?
+
+• What are some Dockerfile best practices?
+
+• How does Docker achieve isolation?
+
+• What is multi-stage build in Docker?
+
+• What is the difference between Swarm and Kubernetes?
+
+• How do you troubleshoot a Docker container not starting?
+
+• How do you secure Docker containers?
+
+• How do you limit container resources?
+
+• How do you patch/update containers?
+
+• What’s the difference between docker exec and docker run?
+
+• How do you share data between containers?
+
+• How would you integrate Docker with CI/CD?
+
+• My application runs on port 5000, please write a Dockerfile for it? (HCL asked)
+
+• How to upgrade Docker agent? (HCL asked)
