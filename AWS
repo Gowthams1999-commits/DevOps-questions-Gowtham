@@ -1,0 +1,15 @@
+• How do you set up a VPC in AWS?
+
+• How do you assign internet access to an EC2 instance?
+
+• What is a NAT Gateway in AWS?
+
+• Why should we choose EKS over ECS, even though ECS supports Fargate? (Capgemini asked this)
+
+• How do you set up an AWS Lambda function? (Asked by a software company)
+
+• How do you create and configure an EKS cluster? (Asked by a software company)
+
+• If the .pem key for an EC2 instance is lost, can it be restored? What are the alternatives? (Asked by a software company)
+
+• What are Lambda Layers in AWS? How are they used?
