@@ -13,3 +13,5 @@
 • If the .pem key for an EC2 instance is lost, can it be restored? What are the alternatives? (Asked by a software company)
 
 • What are Lambda Layers in AWS? How are they used?
+
+* Have you performed any cloud migration from on-premises to any cloud?
