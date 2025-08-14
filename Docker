@@ -61,3 +61,8 @@
 • My application runs on port 5000, please write a Dockerfile for it? (HCL asked)
 
 • How to upgrade Docker agent? (HCL asked)
+
+COMCAST : (Importent)
+
+1.  How do you create a multi-architecture container that can run on different system architectures (e.g., ARM and x86)?
+
