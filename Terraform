@@ -98,7 +98,7 @@
 
 50. I have created 10 EC2 instances using Terraform. I want to delete only 3 of them. How can I do this? (Asked by one software company)
 
-# Comcast Company asked below question:
+#Comcast Company asked below question:
 
 Can you describe the lifecycle and management of the terraform.tfstate file?
 
