@@ -13,3 +13,31 @@
 * What is types of service in kubernetes? (Abhishek)
 * whay hardcode Pod IP communication is bad in kubernetes? (Abhishek)
 * can pod access services in differenet namespace? (Abhishek)
+
+COMCAST : (Importent)
+
+1. Why is Ingress required in Kubernetes?
+
+2. How can you restrict access to specific paths using an Ingress?
+
+3. What type of Ingress controller is used in your organization?
+
+4. Why do we need Ingress if a LoadBalancer is already available?
+
+5. What is the difference between an Ingress and a LoadBalancer?
+
+6. Can you explain the different types of Services in Kubernetes?
+
+7. What is a Headless Service and when would you use it?
+
+8. Can you explain the Kubernetes architecture?
+
+9. Can pods in different namespaces communicate with each other?
+
+10. What is RBAC (Role-Based Access Control) in Kubernetes?
+
+11. How is secrets management handled in Kubernetes?
+
+12. What are StatefulSets and when should you use them?
+
+13. What is the difference between a Deployment and a StatefulSet?
