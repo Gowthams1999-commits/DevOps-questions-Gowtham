@@ -10,3 +10,15 @@
 
 5. Your playbook takes too long to run. What strategies would you apply to improve its execution time?
 
+COMCAST: (Interview)
+
+1. What are Handlers in Ansible and how do they work?
+
+2. Can you write a simple Ansible playbook example?
+
+3. If I have multiple inventory groups, how can I run a playbook for a specific group without modifying the playbook?
+
+4. What are Ansible ad-hoc commands and when would you use them?
+
+5. What are Ansible Roles and how do they help with modularization?
+
