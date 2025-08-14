@@ -98,22 +98,22 @@
 
 50. I have created 10 EC2 instances using Terraform. I want to delete only 3 of them. How can I do this? (Asked by one software company)
 
-#Comcast Company asked below question:
+#Comcast Company asked below question: (!!! IMPORTANT !!!)
 
-Can you describe the lifecycle and management of the terraform.tfstate file?
+1. Can you describe the lifecycle and management of the terraform.tfstate file?
 
-What is terraform import and when is it used?
+2. What is terraform import and when is it used?
 
-Can you explain some commonly used Terraform commands and their purposes?
+3. Can you explain some commonly used Terraform commands and their purposes?
 
-How can I modify an existing running resource using Terraform without recreating it?
+4. How can I modify an existing running resource using Terraform without recreating it?
 
-How is the terraform.tfstate file managed in real-world environments (e.g., remote backends)?
+5. How is the terraform.tfstate file managed in real-world environments (e.g., remote backends)?
 
-What is terraform taint and when should it be used?
+6. What is terraform taint and when should it be used?
 
-If I run a Terraform file, how can I ensure it doesn’t affect existing running resources but only provisions new ones?
+7. If I run a Terraform file, how can I ensure it doesn’t affect existing running resources but only provisions new ones?
 
-What are locals in Terraform and how are they used?
+8. What are locals in Terraform and how are they used?
 
-How can secrets be securely managed in Terraform?
+9. How can secrets be securely managed in Terraform?
