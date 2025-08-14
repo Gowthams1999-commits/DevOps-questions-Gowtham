@@ -60,3 +60,7 @@ CI/CD & Jenkins Interview Questions
 
 30. You had several failed pipeline jobs. After the developer updated the source code, the pipeline ran successfully. If you re-run one of the old failed jobs, will it pull the latest source code or use the original code from the previous run? (Asked by one software company)
 
+COMCAST: (Importent):
+
+Can you explain a complete CI/CD automation workflow using Jenkins? 
+
