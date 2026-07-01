@@ -63,4 +63,9 @@ CI/CD & Jenkins Interview Questions
 COMCAST: (Importent):
 
 Can you explain a complete CI/CD automation workflow using Jenkins? 
+How can you achieve a 20% reduction in Jenkins build time?
+How do you use Terraform in Jenkins?
+How do you integrate Ansible with Jenkins?
+How do you deploy an application to Kubernetes without using Argo CD?
+Why we are using Sonarqube in jenkins
 
