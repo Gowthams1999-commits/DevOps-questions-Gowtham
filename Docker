@@ -66,3 +66,6 @@ COMCAST : (Importent)
 
 1.  How do you create a multi-architecture container that can run on different system architectures (e.g., ARM and x86)?
 
+2. How do you secure your docker image
+
+3. How to secure your docker containers
