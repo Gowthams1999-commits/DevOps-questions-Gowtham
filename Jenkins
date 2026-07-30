@@ -69,3 +69,8 @@ How do you integrate Ansible with Jenkins?
 How do you deploy an application to Kubernetes without using Argo CD?
 Why we are using Sonarqube in jenkins
 
+LTI mind tree (importent):
+1. Write CI / CD pipeline for java based app
+2. How to trigger jenkins pipeline without touching it?
+
+
