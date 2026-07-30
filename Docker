@@ -69,3 +69,9 @@ COMCAST : (Importent)
 2. How do you secure your docker image
 
 3. How to secure your docker containers
+
+=====
+
+1. Write multi stage docker file --> LTI mind tree
+2. How to reduce image size without multi stage docker file --> LTI mind tree
+3. How to ensure your docker image is very secure --> LTI mind tree
