@@ -29,6 +29,9 @@ Comcast : (Importent)
 * If I lose my .pem key for an EC2 instance, is there a way to recover access?
 
 * What is cross account access 
+* what is difference between ALB and NLB --> LTI mindtree
+* what is Gateway LB --> LTI mindtree
+* i want to deploy monolith app in AWS which service i will choose Ec2 or EKS or onpremises vm --> LTI mindtree
 
 * what is Assume Role in AWS
 
