@@ -148,3 +148,11 @@ Detach the secondary volume from helper instance.
 Again attach the volume back to our recovery instance. Start the instance. Terminate the helper instance.
 
 Use helper instance pem file to log into recovery instance.
+
+
+==============
+1. Write terraform configuration for VPC or EKS --> LTI mind tree
+2. How to restore terraform.tfstate file if someone deleted it ---> LTI mind tree
+3. How to perform unit testing using sonarqube --> LTI mind tree
+4. How to check terraform using code analysis tool --> LTI mind tree
+5. if i created instance and some one chnage feature in Ec2 instance using console, if i run terraform apply command what will hapen next? --> LTI mind tree
