@@ -41,3 +41,7 @@ COMCAST : (Importent)
 12. What are StatefulSets and when should you use them?
 
 13. What is the difference between a Deployment and a StatefulSet?
+14 . My container should not serve traffic for next 5 mins how to achive this ---> LTI mind tree
+15. My pod name should contain only 10 chracters how to achive this ---> LTI mind tree
+16. pls give some example for gatekeeper violation --> LTI mind tree
+17. App crashlookup backoff ---> LTI mind tree
