@@ -1,0 +1,30 @@
+What is Argo CD and why do we use it?
+What is GitOps?
+How does Argo CD work?
+What is an Argo CD Application?
+What is the difference between Synced and OutOfSync?
+What is the difference between Synced and Healthy?
+What is automated sync?
+What is selfHeal?
+What is prune?
+What happens if someone manually changes a Kubernetes resource?
+How do you connect a Git repository to Argo CD?
+How do you connect an external Kubernetes cluster to Argo CD?
+What are repoURL, targetRevision, path, and destination?
+How do you deploy the same application to Dev, Staging, and Production?
+How do Jenkins and Argo CD work together?
+Why shouldn't Jenkins directly run kubectl apply when using GitOps?
+How do you troubleshoot an Argo CD sync failure?
+What would you do if Argo CD shows Synced but the application is Degraded?
+What would you do if the pod shows ImagePullBackOff after Argo CD sync?
+What would you do if Argo CD continuously changes a resource back?
+What are Argo CD Sync Options?
+What is CreateNamespace=true?
+What is the difference between Force, Replace, and normal Sync?
+How do you rollback an application in Argo CD?
+What happens if the Git repository is unavailable?
+What happens if the Kubernetes API server is unavailable?
+What is an Argo CD Project?
+What is ApplicationSet?
+How do you manage secrets with Argo CD?
+How do you secure Argo CD?
