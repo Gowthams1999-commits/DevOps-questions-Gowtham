@@ -58,3 +58,16 @@
 
 30.What type of branching strategy are you using in your organization? (HCL asked)
 
+# 🌿 Git
+
+## Alphadyne
+
+* Explain your branching strategy in depth.
+* Why was this branching strategy chosen?
+* How does the branching strategy support:
+
+  * Multiple environments
+  * Releases
+  * Hotfixes
+
+---
