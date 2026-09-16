@@ -45,4 +45,54 @@ Anovia Company:
 
 * Cost Optimization in aws
 
+# ☁️ AWS
+
+## General
+
+* Have you performed any migrations from on-premises to cloud? What challenges did you face?
+* Explain the cloud architecture you have worked on.
+* You created an IAM user in AWS and configured role-based access in EKS. How do you bind the IAM user to the EKS role?
+* Assume you have 10 AWS accounts. How will you securely log in to them without using access keys?
+* What are the different ways to log in to an AWS account?
+* Does Amazon S3 require a VPC?
+* If secrets are created in AWS Secrets Manager, how can Amazon EKS access those secrets?
+* How do you configure RBAC in Amazon EKS?
+
+## Action Labs
+
+* How do you detect the root cause when an application goes down in the cloud?
+* How do you configure a VPC for high availability?
+
+## Akkami
+
+* IPv4 vs IPv6.
+* What range does an IPv4 address start from?
+
+## Alphadyne
+
+* An application is hosted on a public EC2 instance. How would you migrate it to a private subnet following AWS best practices for security, networking and high availability?
+* How do you provide HTTPS access to an application hosted in a private subnet?
+* Explain ALB vs NLB.
+* How do ACM certificates work?
+* Explain routing and security groups in this architecture.
+
+## Altimetrik
+
+* What is your understanding of software architecture components such as:
+
+  * Load balancers
+  * Web servers
+  * Application servers
+  * Databases
+  * Integrations
+
+## Amazon
+
+* How do you send log files from EC2 to S3?
+* Explain three-tier architecture.
+* An admin does not have access to an S3 bucket. How can an IAM permission boundary cause this?
+* You have an S3 bucket in one AWS region. Can it be accessed from another AWS region?
+* Is it possible to create a NAT Gateway in a private subnet?
+* How do you configure Cluster Autoscaler?
+
 
