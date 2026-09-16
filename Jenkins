@@ -22,6 +22,24 @@ CI/CD & Jenkins Interview Questions
 
 11. How do you assign permissions to users in Jenkins?
 
+# 🔨 Jenkins / CI-CD
+
+## Alphadyne
+
+* A developer has written only the source code for a new application. As a DevOps engineer, how would you design the CI/CD pipeline?
+* How would you deploy the application to DEV / QA / PROD using best practices?
+* What is a Multibranch Pipeline in Jenkins?
+* How do you configure a Multibranch Pipeline?
+* What problems does a Multibranch Pipeline solve?
+* Why is it preferred over a normal SCM pipeline?
+
+## Amazon
+
+* Explain the various stages of CI/CD.
+* How will you build the Docker image during CI?
+* How will you manage the Docker image after building it?
+
+
 12. How do you implement Role-Based Access Control (RBAC) in Jenkins?
 
 13. How do you trigger a Jenkins job or pipeline automatically?
