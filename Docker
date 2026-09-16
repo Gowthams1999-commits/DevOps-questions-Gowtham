@@ -75,3 +75,23 @@ COMCAST : (Importent)
 1. Write multi stage docker file --> LTI mind tree
 2. How to reduce image size without multi stage docker file --> LTI mind tree
 3. How to ensure your docker image is very secure --> LTI mind tree
+
+
+## Akkami
+
+* Difference between `CMD` and `ENTRYPOINT`.
+
+## Arrise Solutions
+
+* What are Docker layers?
+* Difference between using a VM and Docker.
+* What are the types of storage drivers in Docker?
+* What are the types of networking in Docker? Explain in detail.
+* Does Docker have a kernel?
+* What are cgroups and namespaces in Docker?
+* Which Docker network is used to isolate communication between two containers?
+
+## General
+
+* What is the difference between Docker and Kubernetes?
+
