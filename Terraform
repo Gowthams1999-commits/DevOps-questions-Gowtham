@@ -156,3 +156,32 @@ Use helper instance pem file to log into recovery instance.
 3. How to perform unit testing using sonarqube --> LTI mind tree
 4. How to check terraform using code analysis tool --> LTI mind tree
 5. if i created instance and some one chnage feature in Ec2 instance using console, if i run terraform apply command what will hapen next? --> LTI mind tree
+
+# 🏗️ Terraform
+
+## General
+
+* What happens when you run `terraform init`?
+* Write Terraform code to create an EC2 instance in multiple regions.
+* You have a multi-region Terraform configuration with `region1`, `region2` and `region3`. If you create an EC2 instance, in which region will it be deployed?
+* If the frontend, backend and database are all deployed in private subnets, how can an end user access the application?
+
+## Action Labs
+
+* Have you written Terraform code for deployments? Explain your implementation.
+* Why do we use Terraform workspaces?
+
+## Altimetrik
+
+* How do you import a resource into Terraform that was manually created in AWS or GCP?
+* What Terraform command would you use?
+
+## Amazon
+
+* Write Terraform code to create:
+
+  * VPC
+  * Subnet
+  * EC2
+  * S3 bucket
+
