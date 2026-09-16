@@ -45,3 +45,57 @@ COMCAST : (Importent)
 15. My pod name should contain only 10 chracters how to achive this ---> LTI mind tree
 16. pls give some example for gatekeeper violation --> LTI mind tree
 17. App crashlookup backoff ---> LTI mind tree
+
+# ☸️ Kubernetes
+
+## General
+
+* How do you reduce downtime during deployments?
+* What agents have you deployed?
+* How does endpoint authentication work in Kubernetes?
+* How did you troubleshoot `CrashLoopBackOff`?
+* Explain a production issue you have faced.
+
+## Action Labs
+
+* How do you ensure high availability in Kubernetes?
+* What is the deployment setup in your organization?
+* What is the maximum time taken for a node to start after a failure or restart?
+* What happens when the master/control-plane node goes down?
+* What happens when a worker node goes down?
+
+## Accolite
+
+* Explain Kubernetes architecture, components and their uses.
+
+## Altimetrik
+
+* You have optimized Kubernetes deployment configurations. Can you explain your role and what changes you made?
+
+## Amadeus Labs
+
+* How do you troubleshoot pod-level autoscaling when HPA is not happening?
+* Suppose an application is configured with HPA and was working fine, but suddenly HPA stops working. What would be your approach?
+* How do you access an application if Ingress is configured but it is not accessible to end users?
+* How does Kubernetes handle service discovery?
+* Can a pod be scheduled with the following security context?
+
+```yaml
+securityContext:
+  runAsNonRoot: true
+  runAsUser: 0
+```
+
+## Amazon
+
+* How do you limit resource usage in Kubernetes through a namespace instead of deployment YAML?
+* How do you update worker nodes in Kubernetes?
+* What is the purpose of CNI in Kubernetes?
+
+## Arrise Solutions
+
+* What is CoreDNS in Kubernetes?
+* What is the purpose of CNI?
+* How does kube-proxy communicate with nodes?
+* What is the purpose of the Kubernetes scheduler?
+* How do SSL/TLS certificates work in Kubernetes?
