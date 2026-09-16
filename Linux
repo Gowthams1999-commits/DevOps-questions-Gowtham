@@ -1,1 +1,19 @@
 
+# 🐧 Linux
+
+## General
+
+* What Linux command is used for mounting a filesystem?
+
+## Akkami
+
+* Write a Unix command to find all files larger than 1 GB.
+* Write a Unix command to find the `ERROR` keyword in a text file, case-insensitive.
+* If you're logging into a Linux machine for the first time, what is the process?
+* If you're unable to access a Linux machine, what will you do?
+* What are the results of `5/2` and `5//2`?
+
+## Alphadyne
+
+* What is the best command to monitor disk writes and reads?
+* I have a public key and want to provide a developer access to a server. Where do you store the public key?
