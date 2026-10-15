@@ -95,4 +95,12 @@ Anovia Company:
 * Is it possible to create a NAT Gateway in a private subnet?
 * How do you configure Cluster Autoscaler?
 
+## LTM
+
+How many AWS accounts have you managed?
+Can you explain the AWS Organizations service?
+My ASG is not scaling even though CPU utilization is very high. How will you troubleshoot?
+I have admin access, but I am unable to access my S3 bucket. How will you troubleshoot?
+Let’s say I have full permission on an S3 bucket, but there is an explicit deny on listing objects. If I try to list objects, will it work?
+Can you explain implicit deny and explicit deny?
 
