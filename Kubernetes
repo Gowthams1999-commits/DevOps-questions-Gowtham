@@ -99,3 +99,6 @@ securityContext:
 * How does kube-proxy communicate with nodes?
 * What is the purpose of the Kubernetes scheduler?
 * How do SSL/TLS certificates work in Kubernetes?
+* What is periority class in kubernetes
+* taint and Toleration
+* affinity rules
